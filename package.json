@@ -16,7 +16,7 @@
     "highlight.js": "^10.0.2",
     "html-loader": "^1.1.0",
     "markdown-loader": "^5.1.0",
-    "marked": "^1.0.0",
+    "marked": "^4.0.10",
     "postcss-px2rem": "^0.3.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
